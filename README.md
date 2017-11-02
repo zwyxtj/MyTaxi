@@ -1,4 +1,4 @@
-# 1 代码规范
+﻿# 1 代码规范
 ## 1.1     Class 命名
  任何类名都应该使用 UpperCamelCase （驼峰法）命名, 例如:
 
@@ -114,3 +114,4 @@
 
 # 项目成员
 大利猫，orange，李松平，风筝与太阳，cpen5，JiannaiJ，赵竹子,周宇
+name=zwy
